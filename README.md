@@ -1,3 +1,12 @@
+# Stokk
+
+Данное приложение занимается анализом ценных бумаг. На основе финансовых и экономических формул определяются наиболее прибыльные и наименее рискованные.
+Приложение полностью нативное на Android и iOS без использования shared логики.
+
+Архитектура проекта MVI, с использованием MVIKotlin
+
+API - МосБиржа(https://www.moex.com/a2193)
+
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
